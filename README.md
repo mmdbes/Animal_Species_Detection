@@ -12,4 +12,3 @@ A code for detection animals based on their images to be used in wild. This is a
 ![description](pictures/10.png)
 ![description](pictures/11.png)
 ![description](pictures/12.png)
-![description](pictures/13.png)
