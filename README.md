@@ -1,5 +1,9 @@
 # Animal_Species_Detection
-A code for detection animals based on their images to be used in wild. This is a Persian version.
+A code for detection animals based on their images to be used in wild.
+
+
+#تشخیص گونه های جانوری
+در این ریپازیتوری کدی قرار دارد که براساس تصویر ورودی حیوانات می تواند تشخیص دهد ان حیوان چه نوع گونه جانوری است.
 ![description](pictures/1.png)
 ![description](pictures/2.png)
 ![description](pictures/3.png)
