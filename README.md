@@ -2,7 +2,7 @@
 A code for detection animals based on their images to be used in wild.
 
 
-#تشخیص گونه های جانوری
+# Persian Version 
 در این ریپازیتوری کدی قرار دارد که براساس تصویر ورودی حیوانات می تواند تشخیص دهد ان حیوان چه نوع گونه جانوری است.
 ![description](pictures/1.png)
 ![description](pictures/2.png)
